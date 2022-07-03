@@ -71,22 +71,86 @@
 // const newVariable = Symbol()
 // console.log(typeof newVariable);
 
-const hobbies = ['movies', 'music']
-// console.log(hobbies);
-console.log(typeof hobbies);
+// const hobbies = ['movies', 'music']
+// // console.log(hobbies);
+// console.log(typeof hobbies);
 
-const testingObject = {
-    name:'Robin',
-    age: 33
-}
-console.log(typeof testingObject);
+// const testingObject = {
+//     name:'Robin',
+//     age: 33
+// }
+// console.log(typeof testingObject);
 
 
 /******************************************** End of fifth session ********************************************/
 
 /******************************************** Start of sixth session ********************************************/
 
+// let value
 
+// value = String(555)
+//    console.log(value);
+//    console.log(typeof value);
+// console.log(value.length);
 
+// val = String (4+4)
+// console.log(val);
+// console.log(typeof val);
+// console.log(val.length);
 
+// var booleanTest  = String(true)
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+// console.log(booleanTest.length);
 
+// booleanTest = new Date()
+// console.log(booleanTest);
+// booleanTest = String(new Date)
+// console.log(typeof booleanTest);
+
+// booleanTest = String([1,2,3,4,5])
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+// console.log(booleanTest.length);
+
+// booleanTest = (true).toString()
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+// console.log(booleanTest.length);
+
+// booleanTest = Number('231432')
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+
+// booleanTest = Number(false)
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+
+// booleanTest = Number(true)
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+
+// booleanTest = Number(null)
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+
+// booleanTest = Number([1,2,3,4])
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+
+// booleanTest  = parseInt('100.30')
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+
+// booleanTest  = parseFloat('100.30')
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+
+// booleanTest  = parseFloat('100.30')
+// console.log(booleanTest);
+// console.log(typeof booleanTest);
+// console.log(booleanTest.toFixed(3));
+
+/******************************************** End of sixth session ********************************************/
+
+/******************************************** Start of seventh session ********************************************/
