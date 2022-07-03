@@ -46,4 +46,47 @@
 // numbers.push(222)
 // console.log(numbers);
 
-/** End of fourth session */
+/******************************************** End of fourth session ********************************************/
+
+/******************************************** Start of fifth session ********************************************/
+
+// const number = 3245
+// console.log(typeof number);
+
+// const name = 'Tim'
+// console.log(typeof name);
+
+// const boolean = false
+// console.log(typeof boolean);
+
+// const car = null
+// console.log(typeof car);
+
+// let testForUndefined
+// console.log(typeof testForUndefined);
+
+// var testForUndefined2
+// console.log(typeof testForUndefined2);
+
+// const newVariable = Symbol()
+// console.log(typeof newVariable);
+
+const hobbies = ['movies', 'music']
+// console.log(hobbies);
+console.log(typeof hobbies);
+
+const testingObject = {
+    name:'Robin',
+    age: 33
+}
+console.log(typeof testingObject);
+
+
+/******************************************** End of fifth session ********************************************/
+
+/******************************************** Start of sixth session ********************************************/
+
+
+
+
+
