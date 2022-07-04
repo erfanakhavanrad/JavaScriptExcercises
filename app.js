@@ -154,3 +154,106 @@
 /******************************************** End of sixth session ********************************************/
 
 /******************************************** Start of seventh session ********************************************/
+
+const num1 = 80
+const num2 =  20
+let val 
+
+// val = num1  + num2
+// console.log(val);
+// val  = num1 - num2
+// console.log(val);
+// val =  num1 * num2
+// console.log(val);
+// val  = num1 / num2
+// console.log(val);
+// val  = num1% num2
+// console.log(val);
+
+// val = Math.PI
+// console.log(val);
+
+// val = Math.E
+// console.log(val);
+
+// val  = Math.sqrt(16)
+// console.log(val);
+
+// val  = Math.round(5.3)
+// console.log(val);
+
+// val  = Math.ceil(5.3)
+// console.log(val);
+
+// val  = Math.floor(5.7)
+// console.log(val);
+
+//  val  = Math.abs(-5)
+//  console.log(val);
+ 
+//  val = Math.pow(5,2)
+//  console.log(val);
+
+//  val  = Math.min(110,35,036,275,120,14632)
+//  console.log(val);
+
+//  val =  Math.max(10,35,036,275,120,14632)
+//  console.log(val);
+
+//  val = Math.random()
+//  console.log(val);
+
+//  val = Math.random()  * 5
+//  console.log(val);
+
+//  val = Math.random()  * 5 + 1
+//  console.log(val);
+
+//  val = Math.floor( Math.random()  * 5 + 1)
+//  console.log(val);
+
+ /******************************************** End of seventh session ********************************************/
+
+ /******************************************** Start of eighth session ********************************************/
+
+ const firstName = 'Alireza'
+ const lastName = 'Oskol'
+ const age = 32
+
+ let value
+
+
+//  value = firstName + lastName
+//  console.log(value);
+
+//  value  = firstName + ' ' + lastName
+//  console.log(value);
+
+//  val = 'web'
+//  val += 'prog' 
+//  console.log(val + val);
+
+//  val  = 'Hello, I am ' +firstName+' and bye.'
+//  console.log(val);
+
+// val = `My name is ${firstName} and I am ${age}`
+// console.log(val);
+
+// val = firstName.length
+// console.log(val);
+
+// val = firstName.concat('*****', lastName)
+// console.log(val);
+
+// val = firstName.toLowerCase()
+// console.log(val);
+
+// val = lastName.toUpperCase()
+// console.log(val);
+
+// val = firstName[1]
+// console.log(val);
+
+val = firstName.charAt('1')
+console.log(val);
+
