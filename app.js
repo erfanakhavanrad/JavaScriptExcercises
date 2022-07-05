@@ -155,9 +155,9 @@
 
 /******************************************** Start of seventh session ********************************************/
 
-const num1 = 80
-const num2 =  20
-let val 
+// const num1 = 80
+// const num2 =  20
+// let val 
 
 // val = num1  + num2
 // console.log(val);
@@ -216,11 +216,11 @@ let val
 
  /******************************************** Start of eighth session ********************************************/
 
- const firstName = 'Alireza'
- const lastName = 'Oskol'
- const age = 32
+//  const firstName = 'Alireza'
+//  const lastName = 'Oskol'
+//  const age = 32
 
- let value
+//  let value
 
 
 //  value = firstName + lastName
@@ -254,6 +254,73 @@ let val
 // val = firstName[1]
 // console.log(val);
 
-val = firstName.charAt('1')
-console.log(val);
+// val = firstName.charAt('2')
+// console.log(val);
+
+// val  = firstName.charAt(firstName.length-1)
+// console.log(val);
+
+// val = firstName.substring(0,5)
+// console.log(val);
+
+// val = firstName.slice(0,5)
+// console.log(val);
+
+// const str  = 'Hello my name is ali ahmagh'
+// val  = str.split(' ')
+// console.log(val);
+// const tags = 'webprog , webdesign , web development , programming'
+
+// val = tags.split(',')
+
+// console.log(val);
+
+// name23 = 'ali'
+// const str = `hello my name is ${name23}`
+// val = str.replace(name23, 'Mostafa')
+// console.log(val);
+
+// val = 'my name is Eli'
+// val23 = val.includes('Eli')
+// console.log(val23); 
+
+ /******************************************** End of eighth session ********************************************/
+
+ /******************************************** Start of ninth session ********************************************/
+
+//  const numbers = [20,62,15,425,356,21452]
+
+//  const numbers2 = new Array(36,15,245,2153,695,4)
+
+//  const fruit = ['pineapple','apple','pear','orange','bannana']
+
+ const mixed = [22,true, 'bannana',3, undefined, null, {a:1, b:5}, new Date(), 'apple']
+//  console.log(mixed);
+
+// val = numbers.length
+// console.log(val);
+
+// val = Array.isArray(numbers)
+// console.log(val);
+
+// val = mixed[4]
+// console.log(val);
+
+//  mixed[0] = 100
+//  console.log(mixed);
+
+// val = mixed.indexOf('apple')
+// console.log(val);
+
+// mixed.push(230)
+// console.log(mixed);
+
+// mixed.unshift(33)
+// console.log(mixed);
+
+// mixed.pop()
+// console.log(mixed);
+
+// mixed.shift()
+// console.log(mixed);
 
