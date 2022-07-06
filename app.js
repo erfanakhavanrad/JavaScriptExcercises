@@ -401,3 +401,51 @@
 
 /******************************************** Start of eleventh session ********************************************/
 
+// const id  = 16
+// const id2 = '60'
+// if(id == 63){
+//     console.log("yes");
+// } else {
+//     console.log("no");
+// }
+
+// if(id != 63){
+//     console.log('yes');
+// }
+// else {
+//     console.log('no');
+// } 
+
+// if (id === id2) {
+//     console.log('yes');
+// }
+// else {
+//     console.log('no');
+// }
+
+// if (id !== id2) {
+//     console.log('yes');
+// }
+// else {
+//     console.log('no');
+// }
+
+// const id  = 60
+// if(typeof id !== 'undefined'){
+//     console.log(`The ID is ${id}`);
+// } else {console.log('undefined');}
+
+// if(id > 80) console.log('great');
+// else if(id<80) console.log('small');
+// else console.log('even');
+
+// if(id >= 13 && id< 20) console.log('&');
+// else if (id >= 13 || id< 20) console.log('|');
+
+// const id = 65
+// console.log(id === 65 ? `greater than ${id}` : 'no');
+
+/******************************************** End of eleventh session ********************************************/
+
+/******************************************** Start of twelveth session ********************************************/
+
