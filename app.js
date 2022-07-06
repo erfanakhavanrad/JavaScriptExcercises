@@ -294,7 +294,7 @@
 
 //  const fruit = ['pineapple','apple','pear','orange','bannana']
 
- const mixed = [22,true, 'bannana',3, undefined, null, {a:1, b:5}, new Date(), 'apple']
+//  const mixed = [22,true, 'bannana',3, undefined, null, {a:1, b:5}, new Date(), 'apple']
 //  console.log(mixed);
 
 // val = numbers.length
@@ -323,4 +323,56 @@
 
 // mixed.shift()
 // console.log(mixed);
+
+// console.log(mixed);
+// mixed.splice(1,3)
+// console.log(mixed);
+
+// console.log(mixed);
+// mixed.reverse()
+// console.log(mixed);
+
+// val = mixed.concat(fruit)
+// console.log(val);
+
+// console.log(fruit);
+// val = fruit.sort()
+// console.log(val);
+
+// console.log(numbers2);
+// console.log(numbers2.sort());
+
+// val  = numbers2.sort(function(x,y){
+//     return x-y
+// })
+// console.log(val);
+
+// val  = numbers2.sort(function(x,y){
+//     return y-x
+// })
+// console.log(val);
+
+ /******************************************** End of ninth session ********************************************/
+ /******************************************** Start of tenth session ********************************************/
+
+ const person = {
+    firstName: 'Ali',
+    lastName: 'Sheikh',
+    age: 29,
+    email: 'Alisheikh@gmail.com',
+    hobbies:['music', 'sports'],
+    date: 18/10/2022,
+    address: {
+        city:'azarbaijan',
+        street: 'golshahr',
+        number: 321,
+        date: 18/10/2022
+    }, getBirthYear: function(){
+        return 1371
+    }
+ }
+console.log(person);
+
+
+
 
