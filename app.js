@@ -355,24 +355,49 @@
  /******************************************** End of ninth session ********************************************/
  /******************************************** Start of tenth session ********************************************/
 
- const person = {
-    firstName: 'Ali',
-    lastName: 'Sheikh',
-    age: 29,
-    email: 'Alisheikh@gmail.com',
-    hobbies:['music', 'sports'],
-    date: 18/10/2022,
-    address: {
-        city:'azarbaijan',
-        street: 'golshahr',
-        number: 321,
-        date: 18/10/2022
-    }, getBirthYear: function(){
-        return 1371
-    }
- }
-console.log(person);
+//  const person = {
+//     firstName: 'Ali',
+//     lastName: 'Sheikh',
+//     age: 29,
+//     email: 'Alisheikh@gmail.com',
+//     hobbies:['music', 'sports'],
+//     date: 18/10/2022,
+//     address: {
+//         city:'azarbaijan',
+//         street: 'golshahr',
+//         number: 321,
+//         date: 18/10/2022
+//     }, getBirthYear: function(){
+//         return 1371 - this.age
+//     }
+//  }
 
+// console.log(person);
 
+// val = person.age
+// console.log(val);
 
+// val = person['lastName']
+// console.log(val);
+
+// val  = person.hobbies
+// console.log(val);
+
+//  val  = person.hobbies[1]
+//  console.log(val);
+
+// val =  person.address.city
+// console.log(val);
+// val = person.address.number
+// console.log(val);
+
+// val = person.address['street']
+// console.log(val);
+
+// val =  person.getBirthYear()
+// console.log(val);
+
+/******************************************** End of tenth session ********************************************/
+
+/******************************************** Start of eleventh session ********************************************/
 
