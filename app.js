@@ -449,3 +449,22 @@
 
 /******************************************** Start of twelveth session ********************************************/
 
+const color = 'blue'
+
+switch (color) {
+         case 'blue':
+        console.log('blue');
+        break;
+
+        case 'red':
+        console.log('red');
+        break;
+
+            default:
+            console.log('noColor');  
+        break;
+}
+
+/******************************************** End of twelveth session ********************************************/
+
+/******************************************** Start of thirteenth session ********************************************/
