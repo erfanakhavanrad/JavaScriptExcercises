@@ -449,22 +449,141 @@
 
 /******************************************** Start of twelveth session ********************************************/
 
-const color = 'blue'
+// const color = 'blue'
 
-switch (color) {
-         case 'blue':
-        console.log('blue');
-        break;
+// switch (color) {
+//          case 'blue':
+//         console.log('blue');
+//         break;
 
-        case 'red':
-        console.log('red');
-        break;
+//         case 'red':
+//         console.log('red');
+//         break;
 
-            default:
-            console.log('noColor');  
-        break;
-}
+//             default:
+//             console.log('noColor');  
+//         break;
+// }
 
 /******************************************** End of twelveth session ********************************************/
 
 /******************************************** Start of thirteenth session ********************************************/
+
+// function add() {
+//     console.log('salam');
+// }
+
+// add()
+
+// function add(x,y) {
+//     return x
+// }
+
+// console.log( add(1,2,3));
+
+// console.log(add());
+// Function declaration
+// function add (x = 3, y=2) {
+// return x+y
+// }
+
+// Function expression
+// const add  = function(x){
+//     return x
+// }
+// console.log(add(2));
+
+
+// Arrow functions
+// First
+// const add  = (x) =>{
+//     return x
+// }
+// console.log(add(2));
+
+// If theree is only one parameter
+// const add2 = x => {
+//     return x
+// }
+// console.log(add2(10));
+
+// // If there is only one line in the method
+// const add3 = x => x
+// console.log(add3(103));
+
+// Multiple parametes
+// const add4 =  (x,y,z) => x+y+z
+// console.log(add4(3,3,3));
+
+// If there is no parameter to call
+// const add4 = () => console.log('Hello');
+// add4()
+
+// Immediatley Invokable Function Expressions (IIFEs)
+// (function () {
+//     console.log('IIFE ran');
+// })()
+
+// (function (name){
+//     console.log(`Hello ${name}`);
+// })('Ali')
+
+/******************************************** End of thirteenth session ********************************************/
+
+/******************************************** Start of fourteenth session ********************************************/
+
+// for (let  i= 0;  i<= 10; i++) {
+// console.log(`Number ${i}`);
+// }
+
+// let i = 0
+// while (i < 10) {
+//     i++
+//     console.log(`Number is ${i}`);
+// }
+
+// let i = 0
+
+// do {
+// console.log(`Number is now at ${i}`);
+// i++    
+// } while (i< 10);
+
+// const cars = ['Ford','Chevy','Honda','Porsche','Toyota','Maserati']
+
+// for (let i = 0; i < cars.length; i++) {
+//     const element =cars[i];
+//  console.log(element);   
+//  console.log(cars[i]);
+// }
+
+// cars.forEach(cars => {
+//     console.log(cars);
+// });
+
+// const users = [
+//     {id: 1, name: 'Ali'},
+//     {id: 2, name: 'Sadegh'},
+//     {id: 3, name: 'Mostafa'},
+//     {id: 4, name: 'Elina'},
+//     {id: 5, name: 'Sarina'}
+// ]
+
+// const ids = users.map(function(user){
+//     console.log(user.id);
+//     console.log(user.name);
+// })
+
+// const user = {
+//     firstName: 'Ali',
+//     lastName: 'Sheikh',
+//     age: 63
+// }
+
+// for(let x in user){
+//     console.log(`${x}: ${user[x]}`);
+// }
+
+/******************************************** End of fourteenth session ********************************************/
+
+/******************************************** Start of fifteenth session ********************************************/
