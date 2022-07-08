@@ -588,3 +588,119 @@
 
 /******************************************** Start of fifteenth session ********************************************/
 
+// var a = 1
+// let b = 2
+// const c = 3
+
+// function test() {
+//     var a = 4
+//     let b = 5
+//     const c = 6
+//     console.log(`Function scope is: ${a}, ${b}, ${c}`);
+// }
+
+// test()
+
+// console.log(`Global scope is ${a}, ${b}, ${c}`);
+
+// if (true) {
+//     var a = 4
+//     let b = 5
+//     const c= 6
+//     console.log(`If scope is ${a}, ${b}, ${c}`);
+// }
+
+// console.log(`Global scope is ${a}, ${b}, ${c}`);
+ 
+// for (let a = 0; a < 10; a++) {
+// console.log(`Loop is ${a}`);    
+// }
+
+// console.log(`Global scope is ${a}, ${b}, ${c}`);
+
+
+/******************************************** End of fifteenth session ********************************************/
+
+/******************************************** Start of sixteenth session ********************************************/
+
+// let person = new Map()
+// person.set ('personkey',{
+//     firstName: 'ALi',
+//     lastName: 'Sheikh',
+//     age: 29
+// })
+
+// // console.log(person);
+
+// person.set ('personkey2', {
+//     age:698,
+//     city: 'hormoz'
+// })
+
+// console.log(person.get('personkey'));
+
+// console.log(person.get('personkey').lastName);
+
+// person.set('string', 'just a tech')
+// console.log(person.get('string'));
+
+// person.set('trigger', function () {
+//     console.log('Hello');
+// })
+
+// console.log(person.get('trigger')());
+// person.get('trigger')()
+
+// console.log(person);
+// console.log(person.size);
+
+// person.set('thirdkey', {
+//     firstName: 'ali',
+//     lastName: 'javid'
+// })
+
+// console.log(person.size);
+// console.log('here');
+// console.log(person.get('thirdkey'));
+// console.log(person);
+// console.log(person.clear());
+// console.log(person.size);
+// console.log(person);
+
+// console.log(person.has('thirdkey'));
+
+// person.delete('thirdkey')
+// console.log(person.has('thirdkey'));
+
+/******************************************** End of sixteenth session ********************************************/
+
+/******************************************** Start of seventeenth session ********************************************/
+
+// const set3 =new  Set()
+// set3.add('hello')
+// set3.add(123)
+// set3.add(123)
+// set3.add({name:'Ali'})
+// set3.add(false)
+
+// console.log(set3);
+
+// // const set2 = new Set([1,true ,'sheikh'])
+// // console.log(set);
+
+// console.log(set3.size);
+
+// console.log(set3.has(123));
+
+// set3.delete(123)
+// console.log(set3.has(123));
+
+// set3.clear()
+// console.log(set3);
+
+
+/******************************************** End of seventeenth session ********************************************/
+
+
+/******************************************** Start of eighteenth session ********************************************/
+
