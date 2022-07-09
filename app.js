@@ -704,3 +704,100 @@
 
 /******************************************** Start of eighteenth session ********************************************/
 
+// Destructuring Assignmnet
+// let a,b
+// [a,b] = [100,200]
+// console.log(b,a);
+
+// [a, b, c, ...rest] = [100,200,300,400,500,600]
+// console.log(rest);
+
+// ({a, b, c} = {a:100, b: 300})
+// console.log(a, b, c);
+
+// ({a, b, ...rest} = {a: 1000, b:200, c:47, d:36, e:92})
+// console.log(rest);
+
+// const people = ['Ali', 'Sadegh', 'Navid']
+// const [person1, person2, person3] = people
+// console.log(person1, person2, person3);
+
+// const person = {
+//     name: 'Ali',
+//     age: 27,
+//     city: 'Foobar',
+//     gender: true, 
+//     sayHello: function(){
+//         console.log('hello');
+//     }
+// }
+
+// Old way
+// const name = person.name
+// age = person.age
+// city = person.city
+// console.log(name, age, city);
+
+// Destructing
+// const {name, age, city, gender} = person
+// console.log(name,age,city, gender);
+// sayHello();
+
+/******************************************** End of eighteenth session *******************************************/
+
+/******************************************** Start of nineteenth session ******************************************/
+
+// const products = [
+//     {name: 'ipad', category: 'devices'},
+//     {name: 'LG', category:'TV'},
+//     {name: 'iPhone', category:'Phones'},
+//     {name: 'Super visiob', category: 'TV'}
+// ]
+
+// let result = products.find(function(products){
+//     return products.category == 'TV'
+// })
+// console.log(result);
+
+
+//  result = products.filter(function(products){
+//     return products.category == 'TV'
+// })
+// console.log(result);
+
+
+//  result = products.map(function(products){
+//     return products.category == 'TV'
+// })
+// console.log(result);
+
+/******************************************** End of nineteenth session *******************************************/
+
+/******************************************** Start of twentieth session *******************************************/
+
+// export const sum = 20
+
+/******************************************** End of twentieth session *******************************************/
+
+/**************************************** Start of twenty-first on session **************************************/
+// export const otherSum = 57
+
+// export function random(){
+//     return Math.random()
+// }
+
+// export const array = [1,2,3,4,5]
+
+// export const obj = {a:234234, b:5215, c:168869}
+
+// export{
+//     sum,
+//     otherSum,
+//     random,
+//     array,
+//     obj
+// }
+
+/**************************************** End of twenty-first on session **************************************/
+
+/**************************************** Start of twenty-second on session **************************************/
