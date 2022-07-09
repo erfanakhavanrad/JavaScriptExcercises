@@ -780,18 +780,18 @@
 /******************************************** End of twentieth session *******************************************/
 
 /**************************************** Start of twenty-first on session **************************************/
-// export const otherSum = 57
+//  const otherSum = 57
 
-// export function random(){
+//  function random(){
 //     return Math.random()
 // }
 
-// export const array = [1,2,3,4,5]
+//  const array = [1,2,3,4,5]
 
-// export const obj = {a:234234, b:5215, c:168869}
+//  const obj = {a:234234, b:5215, c:168869}
 
 // export{
-//     sum,
+    
 //     otherSum,
 //     random,
 //     array,
@@ -801,3 +801,17 @@
 /**************************************** End of twenty-first on session **************************************/
 
 /**************************************** Start of twenty-second on session **************************************/
+
+// export{
+//     sum as sum1,
+//     otherSum,
+//     random,
+//     array,
+//     obj
+// }
+
+
+
+const sum = 25
+
+export default sum
