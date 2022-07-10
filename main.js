@@ -15,6 +15,6 @@
 
 
 
-import sum from "./app.js";
-console.log(sum);
+// import sum from "./app.js";
+// console.log(sum);
 

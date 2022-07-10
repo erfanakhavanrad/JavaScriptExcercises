@@ -812,6 +812,191 @@
 
 
 
-const sum = 25
+// const sum = 25
 
-export default sum
+// export default sum
+
+/**************************************** End of twenty-second on session **************************************/
+
+/**************************************** Start of twenty-third on session **************************************/
+
+// const input = prompt()
+// alert(input)
+
+// if (confirm('Are you sure?')) {
+//     console.log('yes');
+// } else {
+//     console.log('No');
+// }
+
+// let val
+// val = window.outerHeight
+// console.log(val);
+
+// val = window.outerWidth
+// console.log(val);
+
+// val =  window.innerHeight
+// console.log(val);
+
+// val = window.innerWidth
+// console.log(val);
+
+// val = window.scrollY
+// console.log(val);
+
+// val = window.scrollX
+// console.log(val);
+
+/**************************************** End of twenty-third on session **************************************/
+
+/**************************************** Start of twenty-fourth on session **************************************/
+
+// val = window.location
+// console.log(val);
+
+// val = window.location.hostname
+// console.log(val);
+
+// val  = window.location.href
+// console.log(val);
+
+// val = window.location.port
+// console.log(val);
+
+// val = window.location.search
+// console.log(val);
+
+// window.location.href = 'https://webprog.ir'
+
+// window.location.reload()
+
+// val = window.history.length
+// console.log(val);
+
+// val = window.history
+// console.log(val);
+
+// val = window.navigator
+// console.log(val);
+
+// val = window.navigator.appName
+// console.log(val);
+
+// let val = window.navigator.appVersion
+// console.log(val);
+
+// val = window.navigator.userAgent
+// console.log(val);
+
+// val = window.navigator.vendor
+// console.log(val);
+
+// val = window.navigator.languages
+// console.log(val);
+
+/**************************************** End of twenty-fourth on session **************************************/
+
+/**************************************** Start of twenty-fifth on session **************************************/
+
+// let val
+// val = document.all[2]
+// console.log(val);
+
+// val = document.all.length
+// console.log(val);
+
+// val  =document
+// console.log(val);
+
+// val  =document.head
+// console.log(val);
+
+// val  =document.body
+// console.log(val);
+
+// val  =document.doctype
+// console.log(val);
+
+// val  =document.URL
+// console.log(val);
+
+// val  =document.characterSet
+// console.log(val);
+
+// val  =document.contentType
+// console.log(val);
+
+// val  =document.forms
+// console.log(val);
+
+// val = document.forms[0]
+// console.log(val);
+
+// val = document.forms[0].method
+// console.log(val);
+
+// val = document.forms[0].id
+// console.log(val);
+
+// val = document.forms[0].action
+// console.log(val);
+
+// val = document.links
+// console.log(val);
+
+// val = document.links[1]
+// console.log(val);
+
+// val = document.links[1].id
+// console.log(val);
+
+// val = document.links[1].className
+// console.log(val);
+
+// val = document.links[1].classList
+// console.log(val);
+
+// val = document.links[1].classList[2]
+// console.log(val);
+
+// val = document.scripts
+// console.log(val);
+
+// val = document.scripts[0].getAttribute('src')
+// console.log(val);
+
+/**************************************** End of twenty-fifth on session **************************************/
+
+/**************************************** Start of twenty-sixth on session **************************************/
+
+// console.log(document.getElementById('task-from'));
+// console.log(document.getElementById('task-from').id);
+// console.log(document.getElementById('task-from').className);
+
+// const taskTitle = document.getElementById('task-from')
+// console.log(taskTitle);
+// taskTitle.style.background = '#333'
+
+// taskTitle.style.color = 'red'
+
+// taskTitle.style.padding = '200px'
+
+// taskTitle.style.display = 'none'
+
+// taskTitle.textContent = 'تسک'
+// taskTitle.innerText = 'my task'
+
+// taskTitle.innerHTML = '<span style = "color : red"> Idiot tasks</span>'
+
+// console.log(document.querySelector('#task-from'));
+
+// console.log(document.querySelector('.task-class'));
+
+// console.log(document.querySelector('h5'));
+
+// document.querySelector('.task-class').style.color = 'blue'
+
+/**************************************** End of twenty-sixth session **************************************/
+
+/**************************************** Start of twenty-seventh  session **************************************/
