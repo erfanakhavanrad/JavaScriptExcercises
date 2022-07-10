@@ -1000,3 +1000,9 @@
 /**************************************** End of twenty-sixth session **************************************/
 
 /**************************************** Start of twenty-seventh  session **************************************/
+
+const items = document.getElementsByClassName('h1')
+console.log(items[0]);
+items[0].style.color = 'green'
+items[0].textContent = 'Hello'
+ 
